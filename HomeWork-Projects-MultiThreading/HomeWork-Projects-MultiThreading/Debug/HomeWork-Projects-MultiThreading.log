@@ -1,0 +1,15 @@
+﻿  Source.cpp
+c:\users\dmitriy trusienko\source\repos\проект1\проект1\threadpool.h(77): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+  c:\users\dmitriy trusienko\source\repos\проект1\проект1\source.cpp(18): note: выполняется компиляция ссылки на экземпляр шаблон функции "void ThreadPool::Parallel<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,void(__cdecl *)(int &)>(T,T,F)"
+          with
+          [
+              _Ty=int,
+              T=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>,
+              F=void (__cdecl *)(int &)
+          ]
+c:\users\dmitriy trusienko\source\repos\проект1\проект1\threadpool.h(83): warning C4244: аргумент: преобразование "const __int64" в "unsigned int", возможна потеря данных
+c:\users\dmitriy trusienko\source\repos\проект1\проект1\threadpool.h(84): warning C4244: аргумент: преобразование "const __int64" в "unsigned int", возможна потеря данных
+c:\users\dmitriy trusienko\source\repos\проект1\проект1\threadpool.h(102): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\dmitriy trusienko\source\repos\проект1\проект1\threadpool.h(103): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+  Проект1.vcxproj -> C:\Users\Dmitriy Trusienko\source\repos\Проект1\Debug\Проект1.exe
+  Проект1.vcxproj -> C:\Users\Dmitriy Trusienko\source\repos\Проект1\Debug\Проект1.pdb (Partial PDB)
